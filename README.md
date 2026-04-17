@@ -89,7 +89,7 @@ FIELD NAME=STATE       START=46  LENGTH=2   TYPE=ALPHA
 make test
 ```
 
-Tests use `diff` to compare actual output against expected fixtures — no test framework needed.
+Tests use `diff` to compare actual output against expected fixtures, no test framework needed.
 
 ## Examples
 
@@ -97,7 +97,7 @@ See the `tests/` directory for a working customer schema and data file. The `exa
 
 ## Why COBOL?
 
-Fixed-width flat files are COBOL's native habitat. Banks, insurers, and government agencies still produce them by the millions. This tool is written in the same language that generated those files — which means it handles the data model correctly by design, not by approximation.
+Fixed-width flat files are COBOL's native habitat. Banks, insurers, and government agencies still produce them by the millions. This tool is written in the same language that generated those files, which means it handles the data model correctly by design, not by approximation.
 
 ## License
 cob2csv is free for personal and non-commercial use under the
