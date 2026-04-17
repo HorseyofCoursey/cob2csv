@@ -5,16 +5,9 @@
 ![License](https://img.shields.io/badge/license-PolyForm%20NC-orange)
 ![Commercial](https://img.shields.io/badge/commercial%20license-available-brightgreen)
 
-A pair of command-line tools written in pure COBOL that convert fixed-width flat files to CSV and back. Built with [GnuCOBOL](https://gnucobol.sourceforge.io/) — no mainframe required.
+A pair of command-line tools written in pure COBOL that convert fixed-width flat files to CSV and back. Built with [GnuCOBOL](https://gnucobol.sourceforge.io/), no mainframe required.
 
-```
-000001Anderson       Jon            000150099NY
-000002Brown          Billie         000000000TX
-                        ↕  cob2csv / csv2cob
-CUST-ID,FIRST-NAME,LAST-NAME,BALANCE,STATE
-1,Anderson,Jon,1500.99,NY
-2,Brown,Billie,0.00,TX
-```
+<img width="709" height="185" alt="Image" src="https://github.com/user-attachments/assets/4e6bd637-8adc-4bfc-bcd7-83b11b203350" />
 
 ## Tools
 
