@@ -1,6 +1,9 @@
 # cob2csv
 
-[![CI](https://github.com/HorseyofCoursey/cob2csv/actions/workflows/ci.yml/badge.svg)](https://github.com/HorseyofCoursey/cob2csv/actions/workflows/ci.yml)
+[![CI](https://github.com/HorseyofCoursey/cob2csv/actions/workflows/ci.yml/badge.svg)](https://github.com/HorseyofCoursey/cob2csv/actions/workflows/ci.yml) ![Made with COBOL](https://img.shields.io/badge/made%20with-COBOL-blue)
+![GnuCOBOL](https://img.shields.io/badge/GnuCOBOL-3.1-green)
+![License](https://img.shields.io/badge/license-PolyForm%20NC-orange)
+![Commercial](https://img.shields.io/badge/commercial%20license-available-brightgreen)
 
 A pair of command-line tools written in pure COBOL that convert fixed-width flat files to CSV and back. Built with [GnuCOBOL](https://gnucobol.sourceforge.io/) — no mainframe required.
 
